@@ -4,7 +4,7 @@
 
 </h1>
 
-<img alt="Codacy grade" src="https://img.shields.io/codacy/grade/0cb32ce695b743d68257021455330c66">
+<img alt="Codacy grade" src="https://img.shields.io/badge/Python-v3.7-blue"> <img alt="Codacy grade" src="https://img.shields.io/badge/Autor-MatheusFelipe-brightgreen"> <img alt="Codacy grade" src="https://img.shields.io/badge/Curso-SOLYD-yellow"> <img alt="Codacy grade" src="https://img.shields.io/badge/Date-05/04/2022-orange">
           
           
 ## DATE - 05/04/2022
